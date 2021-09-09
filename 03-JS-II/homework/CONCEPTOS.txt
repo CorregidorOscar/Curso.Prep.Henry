@@ -1,0 +1,7 @@
+for: es un ciclo o bucle, un conjunto de instrucciones que se repiten hasta llegar un limite de repeticiones
+
+&&: es el operador logico de "Y", usado para unir 2 expresiones, que solo sera verdadero si ambas expresiones lo son
+
+||: es el operador logico de "O", usado para unir 2 expresiones, que solo sera verdadero si una o ambas expresiones lo son
+
+!: es el operador logico de "NO", usado para cambiar al valor opuesto de una expresion 

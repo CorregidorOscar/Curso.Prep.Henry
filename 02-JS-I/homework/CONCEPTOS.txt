@@ -1,0 +1,11 @@
+Variables: elementos que permiten almacenar diferentes tipos de datos
+
+Strings: son cadenas o secuencias de caracteres (letras, simbolos, etc)
+
+Funciones (argumentos, return: es una porcion de codigo (instrucciones) que puede ser "llamada" para realizar una determinada accion, como calcular,
+modificar variables,etc
+
+Declaraciones if: esta palabra clave sirve para comparar 2 variables utilizando y determinar si la comparacion es verdadera o falsa para
+realizar una accion u otra
+
+Valores booleanos (true, false): sirven para determinar si una variable es verdadera(true) o falsa(false)

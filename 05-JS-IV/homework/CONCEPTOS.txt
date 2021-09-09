@@ -1,0 +1,17 @@
+Objetos: es un conjunto de propiedades
+
+Propiedades: es como una variable, pero esta adjunta al objeto, es una relacion entre un nombre(key) y valor(value) que definen su 
+caracteristica
+
+Métodos: son propiedades pero que tienen como valor una funcion
+
+Bucle for…in: se usa para recorrer los elementos de un objeto, ya que no posee un indice
+
+Notación de puntos vs notación de corchetes: son formas de acceder a las propiedades 
+
+var obj = {
+    nombre: 'jere',
+};
+
+obj.nombre
+obj[nombre]

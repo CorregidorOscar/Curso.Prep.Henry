@@ -1,0 +1,3 @@
+prototype: es una propiedad de Object que sirve para usar como plantilla para crear objetos con caracteristicas similares 
+
+Constructors (de Clases): usa el prototype para hacer modelo o plantillas propias para crear objetos similares o con variaciones

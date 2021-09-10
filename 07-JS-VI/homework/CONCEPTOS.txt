@@ -1,0 +1,3 @@
+Funciones Callback: son funciones que son pasadas por argumentos para que puedan usarse por otras, son importantes porque la funcion 
+que las invoque podra hacer diferentes cosas en base la funcion que se le pase, como filtras una lista de acuerdo al criterio de la
+callback
